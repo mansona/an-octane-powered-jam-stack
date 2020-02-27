@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'jam-for-humans',
+    modulePrefix: 'an-octane-powered-jam-stack',
     environment,
     rootURL: '/',
     locationType: 'preserve-hash',
