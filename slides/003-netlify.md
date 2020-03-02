@@ -6,7 +6,7 @@ notes: |
 
   Respect Netlify. Inventing a term and getting everyone to talk about it as much as JAM Stack is not easy and they have done a fantastic job
 
-  But why would Netlify be the ones to make it in the first place? It helps to know a little bit more about Netlify to understand their reasoning
+  But why would Netlify be the ones to coin this term it in the first place? It's back to that bit in the definition I read out: "serving sites directly from a CDN"
 ---
 
 JAM Stack is a marketing phrase **100%** created by Netlify
