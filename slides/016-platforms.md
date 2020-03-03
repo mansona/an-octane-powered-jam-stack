@@ -2,7 +2,7 @@
 notes: |
   Gatsby and Vuepress are big players in the JAM ecosystem. If you're a React fan then you should try out Gatsby and Vuepress is for, well... Vue fans :joy:
 
-  Both of these are really great choices if you want to build your own blog, site or anything else you might want to build with the JAM Stack! But this comes with its own issue, you have to do most of the actual the building. Both of these tools are essentially a low-level building block that can be used to put together your application.
+  Both of these are really great choices if you want to build your own blog, site or anything else you might want to build with the JAM Stack! But both of these projects come with their own issue, **you** have to do most of the actual the building. Both of these tools are essentially a low-level building block that can be used to put together your application.
 
   both projects have great documentation and absoultely amazing communities! Gatsby even has $3.8M in funding (whatever it means for an open source project to have funding). So you will probably have a good time following the documentation and getting started.
 
