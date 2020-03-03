@@ -14,7 +14,7 @@ notes: |
 | Stable       | Beta           | Alpha       |
 | ------------ | -------------- | ----------- |
 | empress-blog | open-slide     | rfc-process |
-| Guidemaker   | field-guide    | tech-survey |
-|              | training-buddy |             |
+| Guidemaker   | training-buddy | tech-survey |
+| field-guide  |                |             |
 
 <!-- .element class="fragment" -->

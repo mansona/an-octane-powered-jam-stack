@@ -8,8 +8,10 @@ notes: |
 ### Create empress-blog Template
 
 ```bash
-npm init empress-blog-template emberfest
+npm init empress-blog-template EmberConf
 
-cd empress-blog-emberfest-template
+cd empress-blog-EmberConf-template
+
 npm start
 ```
+<!-- .element style="font-size: 1em" -->

@@ -14,3 +14,5 @@ npm uninstall empress-blog-casper-template
 
 npm install empress-blog-attila-template
 ```
+
+<!-- .element style="font-size: 1em" -->

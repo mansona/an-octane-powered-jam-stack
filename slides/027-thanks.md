@@ -5,7 +5,7 @@ notes: |
 
 # Thanks
 
-![empress](/images/full-empress-zoey.png) <!-- .element style="height: 300px" -->
+![empress](/images/full-empress-zoey.png) <!-- .element style="height: 400px" -->
 
 https://github.com/empress
 
