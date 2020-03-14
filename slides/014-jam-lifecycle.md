@@ -7,4 +7,4 @@ notes: |
 
 # JAM Lifecycle
 
-![TODO MVC](/images/todo.png)
+<video id="jam-video" controls autoplay loop muted playsinline style="height: 500px;" src="/images/todo-mvc.webm"></video>
